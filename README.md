@@ -18,3 +18,6 @@ The main skills for the machine learning engineers include skills related to cor
 * Big data technologies (descending order): Spark, Hadoop, Hive, Kafka
 * Cloud technologies (descending order): AWS, GCP, Azure
 * Visualization tools (descending order): Tableau, PowerBI
+
+
+# Feel free to directly send me messages on LinkedIn (Shahrad Shakerian) and ask your questions for getting a job as a data scientist with any kind of background and experience you have.
